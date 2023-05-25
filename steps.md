@@ -20,12 +20,12 @@ Infine scrivi sulla pagina nomecognomecolorepreferito21 -->
 - Creo la variabile `pwd` che punta all'id nello span sul DOM.
 - Creo la variabile `nome`.
 - Creo la variabile `cognome`.
-- Creo la variabile `colore-preferito`.
+- Creo la variabile `colore_preferito`.
 
 ### Svolgimento
 
 - Chiedo all'utente il nome che verrà salvato nella variabile `nome`.
 - Chiedo all'utente il cognome che verrà salvato nella variabile `cognome`.
 - Chiedo all'utente il colore preferito che verrà salvato nella variabile `colore-preferito`.
-- Assegno alla varibile `pwd`, la somma delle variabili `nome`, `cognome`, `colore-preferito` e `suffisso`.
+- Assegno alla varibile `pwd`, la somma delle variabili `nome`, `cognome`, `colore_preferito` e `suffisso`.
 - Stampo il contenuto nella pagina html

@@ -10,6 +10,23 @@
     --main-color: #9966FF;
 }
 
+/* Utils */
+.d-flex {
+    display: flex;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.container {
+    width: 540px;
+}
+
 /* Body */
 body {
     background-image: url(../img/background.jpg);
@@ -22,5 +39,7 @@ header {
     color: white;
     border-bottom: 1px solid white;
     background-color: var(--main-color);
+    text-align: center;
 }
+
 

@@ -31,3 +31,6 @@ console.log(colore_preferito);
 // Concateno le variabili e stampo in pagina il risultato
 pwd = nome + cognome + colore_preferito + suffisso;
 console.log(pwd);
+
+// Stampo nella pagina il risultato
+pass.innerText = pwd;

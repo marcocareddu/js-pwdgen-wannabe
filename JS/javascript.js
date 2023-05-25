@@ -25,5 +25,9 @@ console.log(nome);
 cognome = prompt('Ora il tuo cognome: ');
 console.log(cognome);
 
-colore_preferito = prompt('Qual è il tuo colore preferito?si ');
+colore_preferito = prompt('Qual è il tuo colore preferito? ');
 console.log(colore_preferito);
+
+// Concateno le variabili e stampo in pagina il risultato
+pwd = nome + cognome + colore_preferito + suffisso;
+console.log(pwd);

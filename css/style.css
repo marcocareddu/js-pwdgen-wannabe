@@ -4,3 +4,23 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* Custom Properties */
+:root {
+    --main-color: #9966FF;
+}
+
+/* Body */
+body {
+    background-image: url(../img/background.jpg);
+    background-size: cover;
+}
+
+/* Header */
+header {
+    height: 80px;
+    color: white;
+    border-bottom: 1px solid white;
+    background-color: var(--main-color);
+}
+
